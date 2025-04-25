@@ -1,4 +1,4 @@
-# 🎮 To-Do App – Simple Task Manager
+# ✅ To-Do App – Simple Task Manager
 
 ## 🗒️ Description
 **To-Do App** — Is a simple browser-based task management application. The user can create, edit, delete, and mark tasks as completed. All actions are synchronized with the server using the **fetch API**.
