@@ -1,4 +1,4 @@
-# 🎮 Game 2048 – Classic Puzzle Game
+# 🎮 To-Do App – Simple Task Manager
 
 ## 🗒️ Description
 **To-Do App** — Is a simple browser-based task management application. The user can create, edit, delete, and mark tasks as completed. All actions are synchronized with the server using the **fetch API**.
@@ -12,11 +12,11 @@ Everything is implemented using *React*, *SCSS*, and *TypeScript*.
 *The project was created based on its own design, without the use of external layouts*
 
 ## ✨ Features
--✅ Adding a new task
--📝 Editing an existing task
--🗑️ Deleting tasks
--✔️ Completion mark
--🔄 Synchronization with the server via fetch
+- ✅ Adding a new task
+- 📝 Editing an existing task
+- 🗑️ Deleting tasks
+- ✔️ Completion mark
+- 🔄 Synchronization with the server via fetch
 
 ## 💻 Technologies Used
 - **React**
